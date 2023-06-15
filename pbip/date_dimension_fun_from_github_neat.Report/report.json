@@ -54,11 +54,11 @@
           "z": 4000.00
         },
         {
-          "config": "{\"name\":\"73c3c2134b08d75a3bcd\",\"layouts\":[{\"id\":0,\"position\":{\"x\":169.01408450704224,\"y\":359.6619718309859,\"z\":1000,\"width\":281.2394366197183,\"height\":278.53521126760563}}],\"singleVisual\":{\"visualType\":\"donutChart\",\"projections\":{\"Category\":[{\"queryRef\":\"date_dim.Spring Break\",\"active\":true}],\"Y\":[{\"queryRef\":\"important_facts.Student Count Start Prediction Date\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"d\",\"Entity\":\"date_dim\",\"Type\":0},{\"Name\":\"i\",\"Entity\":\"important_facts\",\"Type\":0}],\"Select\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"Spring Break\"},\"Name\":\"date_dim.Spring Break\",\"NativeReferenceName\":\"Spring Break\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"i\"}},\"Property\":\"Student Count Start Prediction Date\"},\"Name\":\"important_facts.Student Count Start Prediction Date\",\"NativeReferenceName\":\"Student Count Start Prediction Date\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"i\"}},\"Property\":\"Student Count Start Prediction Date\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true}}",
+          "config": "{\"name\":\"73c3c2134b08d75a3bcd\",\"layouts\":[{\"id\":0,\"position\":{\"x\":117.63380281690141,\"y\":359.6619718309859,\"z\":1000,\"width\":281.2394366197183,\"height\":278.53521126760563}}],\"singleVisual\":{\"visualType\":\"donutChart\",\"projections\":{\"Category\":[{\"queryRef\":\"date_dim.Spring Break\",\"active\":true}],\"Y\":[{\"queryRef\":\"important_facts.Student Count Start Prediction Date\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"d\",\"Entity\":\"date_dim\",\"Type\":0},{\"Name\":\"i\",\"Entity\":\"important_facts\",\"Type\":0}],\"Select\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"Spring Break\"},\"Name\":\"date_dim.Spring Break\",\"NativeReferenceName\":\"Spring Break\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"i\"}},\"Property\":\"Student Count Start Prediction Date\"},\"Name\":\"important_facts.Student Count Start Prediction Date\",\"NativeReferenceName\":\"Student Count Start Prediction Date\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"i\"}},\"Property\":\"Student Count Start Prediction Date\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true}}",
           "filters": "[]",
           "height": 278.54,
           "width": 281.24,
-          "x": 169.01,
+          "x": 117.63,
           "y": 359.66,
           "z": 1000.00
         },
